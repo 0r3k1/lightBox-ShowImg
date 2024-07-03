@@ -1,1 +1,1 @@
-lightbox-show-img.netlify.app
+https://lightbox-show-img.netlify.app/
